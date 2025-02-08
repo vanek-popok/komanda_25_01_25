@@ -21,4 +21,3 @@ def eldar(message, bot):
 
 
 
-
